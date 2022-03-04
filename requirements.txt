@@ -1,9 +1,8 @@
 ### dependency
-tqdm
-mlflow
 pandas
 numpy
 PyYAML
+pyspark
 
 ### local packages -
 # -e . # << uncomment this to install from setup.py
